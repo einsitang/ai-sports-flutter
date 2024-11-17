@@ -1,0 +1,6 @@
+# 窗口默认配置
+window:
+  # 窗口大小
+  size: 1280,760
+  # 是否全屏 , 如果是则忽略 size 配置
+  fullscreen: false
